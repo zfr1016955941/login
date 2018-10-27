@@ -1,0 +1,1 @@
+package com.soft.bean;public class Word {    private int wordId;}
