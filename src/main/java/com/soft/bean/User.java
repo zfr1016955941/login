@@ -1,0 +1,1 @@
+package com.soft.bean;public class User {    private int userid;}
