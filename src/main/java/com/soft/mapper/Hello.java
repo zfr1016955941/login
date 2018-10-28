@@ -1,0 +1,1 @@
+package com.soft.mapper;public class Hello {}
