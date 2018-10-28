@@ -1,1 +1,1 @@
-package com.soft.bean;public class User {    private int userid;}
+package com.soft.bean;public class User {    private int userid;    private String userName;}
